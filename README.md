@@ -1,7 +1,7 @@
 # Animated Landing Page
 
 ## 🚀 Live Demo
-[Click here to view the live site]([https://your-username.github.io/your-repo-name/](https://adarshdhanware.github.io/Animated-Landing-Page/))
+[Click here to view the live site](https://your-username.github.io/your-repo-name/](https://adarshdhanware.github.io/Animated-Landing-Page/).
 
 ## 📌 Project Overview
 This is an **animated landing page** built using **HTML, CSS, JavaScript, and jQuery**. It features smooth animations and an interactive design to create an engaging user experience.
